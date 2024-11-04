@@ -18,9 +18,11 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at CBIT
+
+- 👨🏽‍💻 I am a cybersecurity engineer associate at Qualcomm.
 - 🌱 I’m currently exploring Next.js.
 - 🤔 My interest lies in Full Stack Web Development.
+- 👨🏽‍💻 I was a CSE Undergrad student at CBIT
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [k.krishnarishi@icloud.com](mailto:k.krishnarishi@icloud.com).
 
