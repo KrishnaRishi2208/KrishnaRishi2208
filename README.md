@@ -83,10 +83,8 @@ An **AI-powered assistant** that integrates ChatGPT API for mining-related queri
 
 ## 🏅 Certifications  
 
-- **GIAC Certified Machine Learning Engineer (GME)**  
-- Blockchain Specialization – IIT Madras (NPTEL)  
+- **GIAC Certified Machine Learning Engineer (GMLE)**   
 - Data Science & Machine Learning Specializations (Coursera, edX)  
-- Cybersecurity Foundations  
 
 ---
 
